@@ -1,6 +1,6 @@
 .DS_Store
 
 main.py
-__pychache__/
+__pychache__/*
 
 subject_ja.md
